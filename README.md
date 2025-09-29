@@ -1,3 +1,3 @@
 # My-First-Project
 This is my first project in github
-Author-Anand Jugnake
+Author-Anand Ramdas Jugnake
